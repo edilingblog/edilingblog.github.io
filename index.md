@@ -1,6 +1,2 @@
-This should be the title
+Welcome to our Blog!
 ========================
-
-# This should be a header
-Am I correct? 
-> This is a quotation. 
